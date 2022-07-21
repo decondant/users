@@ -1,0 +1,18 @@
+body{
+	background: url(/img/j.jpg);
+	background-size: cover;
+	background-attachment: fixed; 
+	background-position: center;
+	color: white;
+}
+.directLogin{
+	color: white;
+	font-style: italic;
+}
+.directRegister{
+	color: white;
+	font-style: italic;
+}
+h1{
+	font-size: 70px;
+}
